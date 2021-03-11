@@ -16,3 +16,5 @@ tensorflow>=2
 pandas
 pyarrow
 tmdbsimple
+matplotlib
+sklearn
