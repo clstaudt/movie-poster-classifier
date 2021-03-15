@@ -18,3 +18,5 @@ pyarrow
 tmdbsimple
 matplotlib
 sklearn
+Pillow
+tqdm

@@ -7,3 +7,10 @@
 movies:
   type: pandas.ParquetDataSet
   filepath: data/04_feature/movies.parquet
+  
+movies_test:
+    type: pandas.CSVDataSet
+    filepath: data/05_model_input/movies_test.csv
+    load_args:
+        sep: ";"
+        index_col: "id"
