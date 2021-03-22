@@ -20,3 +20,5 @@ matplotlib
 sklearn
 Pillow
 tqdm
+tensorflow_addons
+pydot
